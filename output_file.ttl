@@ -1,0 +1,72 @@
+<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/FNAME>
+          "fname1" ;
+  <http://www.txample.com/people/voc/LNAME>
+          "lname1" ;
+  <http://www.txample.com/people/voc/AGE>
+          "34" ;
+  <http://www.txample.com/people/voc/LOC>
+        "dublin" .
+<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/FNAME>
+          "fname2" ;
+  <http://www.txample.com/people/voc/LNAME>
+          "lname2" ;
+  <http://www.txample.com/people/voc/AGE>
+          "36" ;
+  <http://www.txample.com/people/voc/LOC>
+        "galway" .
+<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/FNAME>
+          "fname3" ;
+  <http://www.txample.com/people/voc/LNAME>
+          "lname3" ;
+  <http://www.txample.com/people/voc/AGE>
+          "27" ;
+  <http://www.txample.com/people/voc/LOC>
+        "cork" .
+<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/FNAME>
+          "fname4" ;
+  <http://www.txample.com/people/voc/LNAME>
+          "lname4" ;
+  <http://www.txample.com/people/voc/AGE>
+          "63" ;
+  <http://www.txample.com/people/voc/LOC>
+        "limerick" .
+<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/FNAME>
+          "fname5" ;
+  <http://www.txample.com/people/voc/LNAME>
+          "lname5" ;
+  <http://www.txample.com/people/voc/AGE>
+          "72" ;
+  <http://www.txample.com/people/voc/LOC>
+        "waterford" .
+<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/FNAME>
+          "bob" ;
+  <http://www.txample.com/people/voc/LNAME>
+          "dylan" ;
+  <http://www.txample.com/people/voc/AGE>
+          "55" ;
+  <http://www.txample.com/people/voc/LOC>
+        "galway" .
+<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/FNAME>
+          "mitchell" ;
+  <http://www.txample.com/people/voc/LNAME>
+          "goerge" ;
+  <http://www.txample.com/people/voc/AGE>
+          "22" ;
+  <http://www.txample.com/people/voc/LOC>
+        "dublin" .
+<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/FNAME>
+          "roger" ;
+  <http://www.txample.com/people/voc/LNAME>
+          "duff" ;
+  <http://www.txample.com/people/voc/AGE>
+          "33" ;
+  <http://www.txample.com/people/voc/LOC>
+        "meath" .

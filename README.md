@@ -1,2 +1,1 @@
-# R2RML-
-Project to convert CSV files to R2RML format. 
+Project to convert CSV file to Turtle file format. 
