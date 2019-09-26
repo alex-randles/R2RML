@@ -1,0 +1,27 @@
+<html>
+    <div class="container" align="center">
+        <head>
+            <h2>CSV to Turtle</h2>
+        </head>
+        <body>
+
+                <form method="POST" action="." enctype = "multipart/form-data">
+         <input type = "file" name = "file" />
+         <input type = "submit" value="Upload"/>
+                  Prefix 1: <input type="text" name="prefix_1"><br>
+                  Prefix 2: <input type="text" name="prefix_2"><br>
+                  <input type="submit" value="Submit">
+                </form>
+                <table style="width:80%">
+                  <tr>
+                    <th>Column Name</th>
+                  </tr>
+                    {% for result in results %}
+                  <tr>
+                    <td>{{result}}</td>
+                  </tr>
+                    {% endfor %}
+                </table>
+        </body>
+    </div>
+</html>

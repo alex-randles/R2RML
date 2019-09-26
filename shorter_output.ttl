@@ -1,0 +1,186 @@
+<http://www.example.com/crime/boston/data/I162082795>
+        a       <http://www.txample.com/crime/voc/CrimeInBoston> ;
+        <http://www.txample.com/crime/voc/Date>
+                "2016-10-08 23:30:00" ;
+        <http://www.txample.com/crime/voc/Day>
+                "Saturday" ;
+        <http://www.txample.com/crime/voc/District>
+                "B2" ;
+        <http://www.txample.com/crime/voc/Hour>
+                "23" ;
+        <http://www.txample.com/crime/voc/Lat>
+                "42.32340986" ;
+        <http://www.txample.com/crime/voc/Location>
+                "(42.32340986, -71.09339604)" ;
+        <http://www.txample.com/crime/voc/Long>
+                "-71.09339604" ;
+        <http://www.txample.com/crime/voc/Month>
+                "10" ;
+        <http://www.txample.com/crime/voc/OffenseCode>
+                "00614" , "01402" ;
+        <http://www.txample.com/crime/voc/OffenseCodeGroup>
+                "I162082795" ;
+        <http://www.txample.com/crime/voc/OffenseDescription>
+                "LARCENY THEFT FROM MV - NON-ACCESSORY" , "VANDALISM" ;
+        <http://www.txample.com/crime/voc/ReportingArea>
+                "301" ;
+        <http://www.txample.com/crime/voc/Street>
+                "HIGHLAND ST" ;
+        <http://www.txample.com/crime/voc/Year>
+                "2016" .
+
+<http://www.example.com/crime/boston/data/I162035664>
+        a       <http://www.txample.com/crime/voc/CrimeInBoston> ;
+        <http://www.txample.com/crime/voc/Date>
+                "2016-05-07 22:56:00" ;
+        <http://www.txample.com/crime/voc/Day>
+                "Saturday" ;
+        <http://www.txample.com/crime/voc/District>
+                "B3" ;
+        <http://www.txample.com/crime/voc/Hour>
+                "22" ;
+        <http://www.txample.com/crime/voc/Lat>
+                "42.30129234" ;
+        <http://www.txample.com/crime/voc/Location>
+                "(42.30129234, -71.07806980)" ;
+        <http://www.txample.com/crime/voc/Long>
+                "-71.07806980" ;
+        <http://www.txample.com/crime/voc/Month>
+                "5" ;
+        <http://www.txample.com/crime/voc/OffenseCode>
+                "03502" , "03501" ;
+        <http://www.txample.com/crime/voc/OffenseCodeGroup>
+                "I162035664" ;
+        <http://www.txample.com/crime/voc/OffenseDescription>
+                "MISSING PERSON - LOCATED" , "MISSING PERSON" ;
+        <http://www.txample.com/crime/voc/ReportingArea>
+                "455" ;
+        <http://www.txample.com/crime/voc/Street>
+                "TRINITY TER" ;
+        <http://www.txample.com/crime/voc/Year>
+                "2016" .
+
+<http://www.example.com/crime/boston/data/I172069270>
+        a       <http://www.txample.com/crime/voc/CrimeInBoston> ;
+        <http://www.txample.com/crime/voc/Date>
+                "2017-08-22 09:00:00" ;
+        <http://www.txample.com/crime/voc/Day>
+                "Tuesday" ;
+        <http://www.txample.com/crime/voc/District>
+                "B3" ;
+        <http://www.txample.com/crime/voc/Hour>
+                "9" ;
+        <http://www.txample.com/crime/voc/Lat>
+                "42.28469164" ;
+        <http://www.txample.com/crime/voc/Location>
+                "(42.28469164, -71.09621548)" ;
+        <http://www.txample.com/crime/voc/Long>
+                "-71.09621548" ;
+        <http://www.txample.com/crime/voc/Month>
+                "8" ;
+        <http://www.txample.com/crime/voc/OffenseCode>
+                "03831" ;
+        <http://www.txample.com/crime/voc/OffenseCodeGroup>
+                "I172069270" ;
+        <http://www.txample.com/crime/voc/OffenseDescription>
+                "M/V - LEAVING SCENE - PROPERTY DAMAGE" ;
+        <http://www.txample.com/crime/voc/ReportingArea>
+                "467" ;
+        <http://www.txample.com/crime/voc/Street>
+                "WESTMORE RD" ;
+        <http://www.txample.com/crime/voc/Year>
+                "2017" .
+
+<http://www.example.com/crime/boston/data/I162023405>
+        a       <http://www.txample.com/crime/voc/CrimeInBoston> ;
+        <http://www.txample.com/crime/voc/Date>
+                "2016-03-26 11:42:00" ;
+        <http://www.txample.com/crime/voc/Day>
+                "Saturday" ;
+        <http://www.txample.com/crime/voc/District>
+                "C11" ;
+        <http://www.txample.com/crime/voc/Hour>
+                "11" ;
+        <http://www.txample.com/crime/voc/Lat>
+                "42.29328831" ;
+        <http://www.txample.com/crime/voc/Location>
+                "(42.29328831, -71.06219497)" ;
+        <http://www.txample.com/crime/voc/Long>
+                "-71.06219497" ;
+        <http://www.txample.com/crime/voc/Month>
+                "3" ;
+        <http://www.txample.com/crime/voc/OffenseCode>
+                "00802" ;
+        <http://www.txample.com/crime/voc/OffenseCodeGroup>
+                "I162023405" ;
+        <http://www.txample.com/crime/voc/OffenseDescription>
+                "ASSAULT SIMPLE - BATTERY" ;
+        <http://www.txample.com/crime/voc/ReportingArea>
+                "361" ;
+        <http://www.txample.com/crime/voc/Street>
+                "DORCHESTER AVE" ;
+        <http://www.txample.com/crime/voc/Year>
+                "2016" .
+
+<http://www.example.com/crime/boston/data/I162070536>
+        a       <http://www.txample.com/crime/voc/CrimeInBoston> ;
+        <http://www.txample.com/crime/voc/Date>
+                "2016-08-30 14:01:00" ;
+        <http://www.txample.com/crime/voc/Day>
+                "Tuesday" ;
+        <http://www.txample.com/crime/voc/District>
+                "D4" ;
+        <http://www.txample.com/crime/voc/Hour>
+                "14" ;
+        <http://www.txample.com/crime/voc/Lat>
+                "42.35095909" ;
+        <http://www.txample.com/crime/voc/Location>
+                "(42.35095909, -71.07412780)" ;
+        <http://www.txample.com/crime/voc/Long>
+                "-71.07412780" ;
+        <http://www.txample.com/crime/voc/Month>
+                "8" ;
+        <http://www.txample.com/crime/voc/OffenseCode>
+                "00613" ;
+        <http://www.txample.com/crime/voc/OffenseCodeGroup>
+                "I162070536" ;
+        <http://www.txample.com/crime/voc/OffenseDescription>
+                "LARCENY SHOPLIFTING" ;
+        <http://www.txample.com/crime/voc/ReportingArea>
+                "134" ;
+        <http://www.txample.com/crime/voc/Street>
+                "BOYLSTON ST" ;
+        <http://www.txample.com/crime/voc/Year>
+                "2016" .
+
+<http://www.example.com/crime/boston/data/I172062177>
+        a       <http://www.txample.com/crime/voc/CrimeInBoston> ;
+        <http://www.txample.com/crime/voc/Date>
+                "2017-07-31 10:36:00" ;
+        <http://www.txample.com/crime/voc/Day>
+                "Monday" ;
+        <http://www.txample.com/crime/voc/District>
+                "E5" ;
+        <http://www.txample.com/crime/voc/Hour>
+                "10" ;
+        <http://www.txample.com/crime/voc/Lat>
+                "42.27362030" ;
+        <http://www.txample.com/crime/voc/Location>
+                "(42.27362030, -71.16695732)" ;
+        <http://www.txample.com/crime/voc/Long>
+                "-71.16695732" ;
+        <http://www.txample.com/crime/voc/Month>
+                "7" ;
+        <http://www.txample.com/crime/voc/OffenseCode>
+                "03006" ;
+        <http://www.txample.com/crime/voc/OffenseCodeGroup>
+                "I172062177" ;
+        <http://www.txample.com/crime/voc/OffenseDescription>
+                "SICK/INJURED/MEDICAL - PERSON" ;
+        <http://www.txample.com/crime/voc/ReportingArea>
+                "722" ;
+        <http://www.txample.com/crime/voc/Street>
+                "LAURIE AVE" ;
+        <http://www.txample.com/crime/voc/Year>
+                "2017" .
+

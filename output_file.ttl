@@ -1,72 +1,72 @@
-<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
-  <http://www.txample.com/people/voc/FNAME>
-          "fname1" ;
-  <http://www.txample.com/people/voc/LNAME>
-          "lname1" ;
-  <http://www.txample.com/people/voc/AGE>
-          "34" ;
-  <http://www.txample.com/people/voc/LOC>
-        "dublin" .
-<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
-  <http://www.txample.com/people/voc/FNAME>
-          "fname2" ;
-  <http://www.txample.com/people/voc/LNAME>
-          "lname2" ;
-  <http://www.txample.com/people/voc/AGE>
-          "36" ;
-  <http://www.txample.com/people/voc/LOC>
-        "galway" .
-<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
-  <http://www.txample.com/people/voc/FNAME>
-          "fname3" ;
-  <http://www.txample.com/people/voc/LNAME>
-          "lname3" ;
-  <http://www.txample.com/people/voc/AGE>
-          "27" ;
-  <http://www.txample.com/people/voc/LOC>
-        "cork" .
-<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
-  <http://www.txample.com/people/voc/FNAME>
-          "fname4" ;
-  <http://www.txample.com/people/voc/LNAME>
-          "lname4" ;
-  <http://www.txample.com/people/voc/AGE>
-          "63" ;
-  <http://www.txample.com/people/voc/LOC>
-        "limerick" .
-<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
-  <http://www.txample.com/people/voc/FNAME>
-          "fname5" ;
-  <http://www.txample.com/people/voc/LNAME>
-          "lname5" ;
-  <http://www.txample.com/people/voc/AGE>
-          "72" ;
-  <http://www.txample.com/people/voc/LOC>
-        "waterford" .
-<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
-  <http://www.txample.com/people/voc/FNAME>
-          "bob" ;
-  <http://www.txample.com/people/voc/LNAME>
-          "dylan" ;
-  <http://www.txample.com/people/voc/AGE>
-          "55" ;
-  <http://www.txample.com/people/voc/LOC>
-        "galway" .
-<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
-  <http://www.txample.com/people/voc/FNAME>
-          "mitchell" ;
-  <http://www.txample.com/people/voc/LNAME>
-          "goerge" ;
-  <http://www.txample.com/people/voc/AGE>
-          "22" ;
-  <http://www.txample.com/people/voc/LOC>
-        "dublin" .
-<http://www.txample.com/people/voc/Person1>  a     <http://www.txample.com/people/voc/Person>   ;
-  <http://www.txample.com/people/voc/FNAME>
-          "roger" ;
-  <http://www.txample.com/people/voc/LNAME>
-          "duff" ;
-  <http://www.txample.com/people/voc/AGE>
-          "33" ;
-  <http://www.txample.com/people/voc/LOC>
-        "meath" .
+Perso/3130n
+  a     Person   ;
+  <http://www.txample.com/people/voc/name>
+          "Burks, Rosella " ;
+  <http://www.txample.com/people/voc/first>
+          "Rosella" ;
+  <http://www.txample.com/people/voc/last>
+          "Burks" ;
+  <http://www.txample.com/people/voc/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/email>
+          "BurksR@univ.edu" ;
+  <http://www.txample.com/people/voc/phone>
+          "963.555.1253" ;
+  <http://www.txample.com/people/voc/fax>
+          "963.777.4065" ;
+  <http://www.txample.com/people/voc/title>
+        "Professor " .
+Perso/3297n
+  a     Person   ;
+  <http://www.txample.com/people/voc/name>
+          "Avila, Damien " ;
+  <http://www.txample.com/people/voc/first>
+          "Damien" ;
+  <http://www.txample.com/people/voc/last>
+          "Avila" ;
+  <http://www.txample.com/people/voc/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/email>
+          "AvilaD@univ.edu" ;
+  <http://www.txample.com/people/voc/phone>
+          "963.555.1352" ;
+  <http://www.txample.com/people/voc/fax>
+          "963.777.7914" ;
+  <http://www.txample.com/people/voc/title>
+        "Professor " .
+Perso/3547n
+  a     Person   ;
+  <http://www.txample.com/people/voc/name>
+          "Olsen, Robin " ;
+  <http://www.txample.com/people/voc/first>
+          "Robin" ;
+  <http://www.txample.com/people/voc/last>
+          "Olsen" ;
+  <http://www.txample.com/people/voc/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/email>
+          "OlsenR@univ.edu" ;
+  <http://www.txample.com/people/voc/phone>
+          "963.555.1378" ;
+  <http://www.txample.com/people/voc/fax>
+          "963.777.9262" ;
+  <http://www.txample.com/people/voc/title>
+        "Assistant Professor" .
+Perso/1538n
+  a     Person   ;
+  <http://www.txample.com/people/voc/name>
+          "Moises, Edgar Estes" ;
+  <http://www.txample.com/people/voc/first>
+          "Edgar" ;
+  <http://www.txample.com/people/voc/last>
+          "Moises" ;
+  <http://www.txample.com/people/voc/middle>
+          "Estes" ;
+  <http://www.txample.com/people/voc/email>
+          "MoisesE@univ.edu" ;
+  <http://www.txample.com/people/voc/phone>
+          "963.555.2731x3565" ;
+  <http://www.txample.com/people/voc/fax>
+          "963.777.8264" ;
+  <http://www.txample.com/people/voc/title>
+        "Professor" .
