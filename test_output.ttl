@@ -1,0 +1,720 @@
+<http://www.txample.com/people/voc/Person3130>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Burks, Rosella " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Rosella" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Burks" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "BurksR@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.1253" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.4065" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor " .
+<http://www.txample.com/people/voc/Person3297>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Avila, Damien " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Damien" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Avila" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "AvilaD@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.1352" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.7914" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor " .
+<http://www.txample.com/people/voc/Person3547>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Olsen, Robin " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Robin" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Olsen" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "OlsenR@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.1378" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.9262" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person1538>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Moises, Edgar Estes" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Edgar" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Moises" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Estes" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "MoisesE@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.2731x3565" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.8264" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person2941>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Brian, Heath Pruitt" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Heath" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Brian" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Pruitt" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "BrianH@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.2800" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.7249" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Associate Curator " .
+<http://www.txample.com/people/voc/Person2401>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Claude, Elvin Haney" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Elvin" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Claude" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Haney" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "ClaudeE@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.2902" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.9730" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Curator" .
+<http://www.txample.com/people/voc/Person2070>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Mosley, Edmund " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Edmund" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Mosley" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "MosleyE@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.2945" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.9285" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person2561>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Derek, Antoine Mccoy" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Antoine" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Derek" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Mccoy" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "DerekA@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.2992" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.5454" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Curator" .
+<http://www.txample.com/people/voc/Person1625>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Hawkins, Callie " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Callie" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Hawkins" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "HawkinsC@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.3350x6480" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.4949" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person1307>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Pate, Andrea " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Andrea" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Pate" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "PateA@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.3723" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.5049" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person2342>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Austin, Liz " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Liz" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Austin" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "AustinL@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.4305" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.6143" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person2755>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Kendrick, Reba Alford" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Reba" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Kendrick" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Alford" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "KendrickR@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.4618x7744" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.4371" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Associate Curator " .
+<http://www.txample.com/people/voc/Person4150>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Sims, Angelina " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Angelina" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Sims" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "SimsA@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.5278" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.4400" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person3544>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Mullins, Kimberly " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Kimberly" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Mullins" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "MullinsK@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.5471x1017" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.9783" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person2096>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Chuck, Lloyd Haney" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Lloyd" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Chuck" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Haney" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "ChuckL@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.5568x2652" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.9290" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person1089>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Payne, Ladonna " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Ladonna" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Payne" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "PayneL@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.5639" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.6469" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person2948>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Baxter, Johnathan Browning" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Johnathan" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Baxter" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Browning" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "BaxterJ@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.5902" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.8336" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Research Professor" .
+<http://www.txample.com/people/voc/Person4539>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Weiss, Gilbert " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Gilbert" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Weiss" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "WeissG@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.5969" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.4975" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person2811>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Deirdre, Florence Barrera" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Florence" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Deirdre" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Barrera" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "DeirdreF@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.6319" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.9654" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Associate Curator " .
+<http://www.txample.com/people/voc/Person4580>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Fernando, Toby Calderon" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Toby" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Fernando" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Calderon" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "FernandoT@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.6469" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.9864" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Research Professor" .
+<http://www.txample.com/people/voc/Person2895>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Garrison, Patrica " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Patrica" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Garrison" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "GarrisonP@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.6760" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.4958" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Associate Curator " .
+<http://www.txample.com/people/voc/Person2254>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Effie, Leila Vinson" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Leila" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Effie" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Vinson" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "EffieL@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.6824" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.7299" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person2389>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Buckley, Rose " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Rose" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Buckley" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "BuckleyR@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.6855x5018" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.5233" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Curator" .
+<http://www.txample.com/people/voc/Person1699>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Stanton, Kathie " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Kathie" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Stanton" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "StantonK@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.7095" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.1015" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person1567>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Banks, Shannon " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Shannon" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Banks" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "BanksS@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.7198" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.6979" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person3066>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Barnes, Cleo " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Cleo" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Barnes" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "BarnesC@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.7463x7335" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.1583" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Research Professor" .
+<http://www.txample.com/people/voc/Person2426>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Brady, Nellie " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Nellie" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Brady" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "BradyN@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.7569" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.7218" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Curator" .
+<http://www.txample.com/people/voc/Person2217>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Katheryn, Ruben Holt" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Ruben" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Katheryn" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Holt" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "KatherynR@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.7578" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.3969" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person1968>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Michael, Dianne " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Dianne" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Michael" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "MichaelD@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.7592" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.9960" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person3012>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Grant, Adam " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Adam" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Grant" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "GrantA@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.7775" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.8115" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Research Professor" .
+<http://www.txample.com/people/voc/Person1824>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Head, Kurtis " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Kurtis" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Head" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "HeadK@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.7882" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.6348" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person3929>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Berger, Jami " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Jami" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Berger" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "BergerJ@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.8158" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.5650" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Research Professor" .
+<http://www.txample.com/people/voc/Person2682>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Earline, Jaime Fitzgerald" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Jaime" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Earline" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Fitzgerald" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "EarlineJ@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.8357" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.4114" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Associate Curator " .
+<http://www.txample.com/people/voc/Person3112>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Evelyn, Summer Frost" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Summer" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Evelyn" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Frost" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "EvelynS@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.8895" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.5730" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor " .
+<http://www.txample.com/people/voc/Person2303>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Quentin, Sam Hyde" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Sam" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Quentin" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Hyde" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "QuentinS@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.8921" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.2712" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person3903>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Dunlap, Ann " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Ann" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Dunlap" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "DunlapA@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.9067" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.4290" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person3095>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Shields, Rich Pena" ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Rich" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Shields" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "Pena" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "ShieldsR@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.9197" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.7215" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor " .
+<http://www.txample.com/people/voc/Person2383>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Page, Winnie " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Winnie" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Page" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "PageW@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.9366" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.3202" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Curator" .
+<http://www.txample.com/people/voc/Person2146>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Sparks, Ezra " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Ezra" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Sparks" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "SparksE@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.9390" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.9273" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person3958>
+  a     <http://www.txample.com/people/voc/Person>   ;
+  <http://www.txample.com/people/voc/Person/name>
+          "Kaufman, Elba " ;
+  <http://www.txample.com/people/voc/Person/first>
+          "Elba" ;
+  <http://www.txample.com/people/voc/Person/last>
+          "Kaufman" ;
+  <http://www.txample.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.txample.com/people/voc/Person/email>
+          "KaufmanE@univ.edu" ;
+  <http://www.txample.com/people/voc/Person/phone>
+          "963.555.9507" ;
+  <http://www.txample.com/people/voc/Person/fax>
+          "963.777.3298" ;
+  <http://www.txample.com/people/voc/Person/title>
+        "Professor" .

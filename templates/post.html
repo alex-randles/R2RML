@@ -1,32 +1,28 @@
 <html>
     <div class="container" align="center">
         <head>
-            <h2>CSV to Turtle</h2>
+            <h2>CSV to RDF</h2>
         </head>
         <body>
-
                 <form method="POST" action="." enctype = "multipart/form-data">
-         <input type = "file" name = "file" />
-         <input type = "submit" value="Upload"/>
-                    Prefix 1: <input type="text" name="youtube_url"><br>
-                    Prefix 2: <input type="text" name="search_term"><br>
-                  <input type="submit" value="Submit">
+                     <input type = "file" name = "file" />
+                     <input type = "submit" value="Upload"/>
                 </form>
-                <table style="width:80%">
-                  <tr>
-                    <th>Column Name</th>
-                  </tr>
-                    {% for result in results %}
-                  <tr>
-                    <td>{{result}}</td>
-                  </tr>
-                    {% endfor %}
-                </table>
-        <select name="list_status">
-            {% for prefix in prefixes %}
-            <option value="{{[prefix]}}">{{prefix}}</option>
-            {% endfor %}
-        </select>
+                <form method="POST" action="/result" enctype = "multipart/form-data">
+                                Namespace Prefix: <input type="text" name="subject_prefix"><br>
+                                <table style="width:80%">
+                                <tr>
+                                    <th>Column Name</th>
+                                </tr>
+                                    {% for i in range(0,results|length) %}
+                                <tr>
+                                    <td>{{results[i]}}</td>
+                                    <td>Prefix {{i}}: <input type="text" name="prefix_{{i}}"><br></td>
+                                </tr>
+                                    {% endfor %}
+                                 </table>
+                    <br><input type = "submit" value="Generate Turtle"/>
+                </form>
         </body>
     </div>
 </html>

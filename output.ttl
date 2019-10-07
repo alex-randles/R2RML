@@ -1,0 +1,680 @@
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Burks, Rosella " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Rosella" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Burks" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "BurksR@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.1253" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.4065" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor " .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Avila, Damien " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Damien" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Avila" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "AvilaD@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.1352" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.7914" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor " .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Olsen, Robin " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Robin" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Olsen" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "OlsenR@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.1378" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.9262" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Moises, Edgar Estes" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Edgar" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Moises" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Estes" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "MoisesE@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.2731x3565" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.8264" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Brian, Heath Pruitt" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Heath" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Brian" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Pruitt" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "BrianH@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.2800" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.7249" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Associate Curator " .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Claude, Elvin Haney" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Elvin" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Claude" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Haney" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "ClaudeE@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.2902" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.9730" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Curator" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Mosley, Edmund " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Edmund" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Mosley" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "MosleyE@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.2945" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.9285" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Derek, Antoine Mccoy" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Antoine" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Derek" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Mccoy" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "DerekA@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.2992" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.5454" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Curator" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Hawkins, Callie " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Callie" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Hawkins" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "HawkinsC@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.3350x6480" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.4949" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Pate, Andrea " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Andrea" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Pate" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "PateA@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.3723" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.5049" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Austin, Liz " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Liz" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Austin" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "AustinL@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.4305" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.6143" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Kendrick, Reba Alford" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Reba" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Kendrick" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Alford" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "KendrickR@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.4618x7744" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.4371" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Associate Curator " .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Sims, Angelina " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Angelina" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Sims" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "SimsA@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.5278" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.4400" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Mullins, Kimberly " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Kimberly" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Mullins" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "MullinsK@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.5471x1017" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.9783" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Chuck, Lloyd Haney" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Lloyd" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Chuck" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Haney" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "ChuckL@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.5568x2652" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.9290" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Payne, Ladonna " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Ladonna" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Payne" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "PayneL@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.5639" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.6469" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Baxter, Johnathan Browning" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Johnathan" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Baxter" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Browning" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "BaxterJ@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.5902" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.8336" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Research Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Weiss, Gilbert " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Gilbert" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Weiss" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "WeissG@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.5969" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.4975" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Deirdre, Florence Barrera" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Florence" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Deirdre" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Barrera" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "DeirdreF@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.6319" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.9654" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Associate Curator " .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Fernando, Toby Calderon" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Toby" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Fernando" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Calderon" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "FernandoT@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.6469" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.9864" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Research Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Garrison, Patrica " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Patrica" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Garrison" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "GarrisonP@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.6760" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.4958" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Associate Curator " .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Effie, Leila Vinson" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Leila" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Effie" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Vinson" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "EffieL@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.6824" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.7299" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Buckley, Rose " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Rose" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Buckley" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "BuckleyR@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.6855x5018" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.5233" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Curator" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Stanton, Kathie " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Kathie" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Stanton" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "StantonK@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.7095" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.1015" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Banks, Shannon " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Shannon" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Banks" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "BanksS@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.7198" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.6979" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Barnes, Cleo " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Cleo" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Barnes" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "BarnesC@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.7463x7335" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.1583" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Research Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Brady, Nellie " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Nellie" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Brady" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "BradyN@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.7569" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.7218" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Curator" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Katheryn, Ruben Holt" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Ruben" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Katheryn" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Holt" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "KatherynR@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.7578" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.3969" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Michael, Dianne " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Dianne" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Michael" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "MichaelD@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.7592" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.9960" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Grant, Adam " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Adam" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Grant" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "GrantA@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.7775" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.8115" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Research Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Head, Kurtis " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Kurtis" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Head" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "HeadK@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.7882" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.6348" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Berger, Jami " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Jami" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Berger" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "BergerJ@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.8158" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.5650" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Research Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Earline, Jaime Fitzgerald" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Jaime" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Earline" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Fitzgerald" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "EarlineJ@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.8357" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.4114" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Associate Curator " .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Evelyn, Summer Frost" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Summer" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Evelyn" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Frost" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "EvelynS@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.8895" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.5730" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor " .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Quentin, Sam Hyde" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Sam" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Quentin" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Hyde" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "QuentinS@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.8921" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.2712" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Dunlap, Ann " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Ann" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Dunlap" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "DunlapA@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.9067" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.4290" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Shields, Rich Pena" ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Rich" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Shields" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "Pena" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "ShieldsR@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.9197" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.7215" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor " .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Page, Winnie " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Winnie" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Page" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "PageW@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.9366" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.3202" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Curator" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Sparks, Ezra " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Ezra" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Sparks" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "SparksE@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.9390" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.9273" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Assistant Professor" .
+<http://www.txample.com/people/voc/Person>
+<http://www.txample.com/people/voc/Person/{}>  <http://www.NAME.com/people/voc/Person/name>
+          "Kaufman, Elba " ;
+  <http://www.FIRST.com/people/voc/Person/first>
+          "Elba" ;
+  <http://www.LAST.com/people/voc/Person/last>
+          "Kaufman" ;
+  <http://www.MIDDLE.com/people/voc/Person/middle>
+          "nan" ;
+  <http://www.EMAIL.com/people/voc/Person/email>
+          "KaufmanE@univ.edu" ;
+  <http://www.PHONE.com/people/voc/Person/phone>
+          "963.555.9507" ;
+  <http://www.FAX.com/people/voc/Person/fax>
+          "963.777.3298" ;
+  <http://www.TITLE.com/people/voc/Person/title>
+        "Professor" .
