@@ -1,7 +1,7 @@
 <html>
     <div class="container" align="center">
         <head>
-            <h2>CSV to RDF</h2>
+            <h2>CSV/ EXCEL to RDF</h2>
         </head>
         <body>
                 <form method="POST" action="." enctype = "multipart/form-data">
@@ -13,15 +13,18 @@
                                 <table style="width:80%">
                                 <tr>
                                     <th>Column Name</th>
+                                    <th>ID</th>
                                 </tr>
                                     {% for i in range(0,results|length) %}
                                 <tr>
                                     <td>{{results[i]}}</td>
-                                    <td>Prefix {{i}}: <input type="text" name="prefix_{{i}}"><br></td>
+                                    <td>Prefix {{i}}: <input type="text" name="prefix_{{i}}">
+                                        <input type="checkbox" name="id_selection_{{i}}"><br>
+                                        <br></td>
                                 </tr>
                                     {% endfor %}
                                  </table>
-                    <br><input type = "submit" value="Generate Turtle"/>
+                    <br><input type = "submit" value="Generate RDF"/>
                 </form>
         </body>
     </div>
