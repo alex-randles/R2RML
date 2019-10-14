@@ -12,6 +12,8 @@ def read_file(file_name):
     print(file_extension)
     if file_extension == "csv":
         data = pd.read_csv(file_name)
+    elif file_extension == "json":
+        data = pd.read_json(file_name)
     else:
         data = pd.read_excel(file_name)
     return data
